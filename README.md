@@ -10,7 +10,7 @@ This is a web project built with **Next Js, Tailwind CSS and Tesseract Js** whic
 
 ## 💻 Teach Stack Used
 - Next Js 13
-- Typesript
+- Typescript
 - Tailwind CSS
 - Tesseract Js
 
